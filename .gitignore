@@ -1,0 +1,9 @@
+﻿# Large local datasets
+data/raw/311_2025/SR2025.csv
+data/cleaned/SR2025_cleaned.csv
+data/raw/311 Service Requests 2025.zip
+
+# Temporary and system files
+Thumbs.db
+Desktop.ini
+~$*
